@@ -1,0 +1,13 @@
+HOW THE WAREHOUSE ID NUMBER SOFTWARE WORKS
+
+*NOTE* There is no specific ID existing for a Warehouse.
+1. Once the input field detects data entery, it will notify you below "invalid warehouse number" this is because the number is incomplete
+2. When the Warehouse ID number is complete, the input field will prevent further input and then notify you "checking for warehouse".
+3. Click the "Check up store" button to submit the entered ID and alert will pop up notifying you that the system is checking for correspondidng Warehouse. 
+however, as no specific ID exist, the system will not return any Warehouse. 
+
+4. If you need further information or modification, kindly let me know.
+
+Thank you.
+
+Okechukwu Umezurike.
